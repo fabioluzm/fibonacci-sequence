@@ -28,6 +28,6 @@ function fibonacci() {
 	}
 }
 
-function clear() {
+function clearShow() {
 	document.getElementById('show').removeChild(show.firstChild);
 }
